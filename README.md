@@ -283,8 +283,3 @@ This lab demonstrates the relationship between the Microsoft cloud-management co
 
 ---
 
-## Related Projects
-
-- Microsoft Entra ID Identity & Access Management Lab
-- Windows Server & Active Directory Administration Lab
-- Microsoft 365 Administration & User Support Lab
